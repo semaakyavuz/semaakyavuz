@@ -1,45 +1,40 @@
 # Hi, I'm Sema Akyavuz 👋
 
-I am a Computer Engineering graduate currently working as a Long-Term Intern at Henkel.  
-I am interested in backend development, data-oriented applications, machine learning, and business analysis.
+Backend Developer (.NET / Python) with hands-on experience building AI-powered automation tools.
 
-I have hands-on experience with ASP.NET Core, Python, Java, Django, SQL, and machine learning projects.  
-I enjoy building projects that solve real-world problems, especially around ERP integrations, document processing, data transformation, and classification systems.
+I work as an IT Specialist at **Henkel**, where I automate internal reporting and support processes using Python and Microsoft Copilot. Outside of work, I build backend systems and AI agents to keep learning and to solve real problems end to end.
 
-## Tech Stack
+## 🔭 What I build
 
-- Backend: ASP.NET Core, C#, Django, REST API
-- Database: SQL, PostgreSQL, NoSQL concepts
-- Programming: Python, Java, C#
-- Data & ML: Pandas, KNN, Decision Tree, classification models
-- Tools: Git, GitHub, Postman, Visual Studio, VS Code
+- **Backend systems**: REST APIs with authentication, databases, and clean architecture
+- **AI agents & automation**: LLM-powered tools that classify, search, and make decisions — not just chatbots
+- **CI/CD & testing**: automated tests and pipelines so code stays reliable after it ships
 
-## Experience
+## 🚀 Featured Projects
 
-### Long-Term Intern — Henkel
-Currently gaining professional experience in an enterprise environment, contributing to IT-related processes and improving my technical and analytical skills.
+### [StockBridge](https://github.com/semaakyavuz/StockBridge) — Inventory Management API
+ASP.NET Core 8 backend with OAuth 2.0 (PKCE) login, JWT-based roles, background sync jobs, and an AI integration (Groq/LLaMA) for product descriptions and stock forecasting. Tested with xUnit, tracked with SonarCloud, deployed with Docker.
 
-## Featured Projects
+### [IT-Ticket-Triage-Agent](https://github.com/semaakyavuz/IT-Ticket-Triage-Agent) — AI Support Agent
+A Python agent that reads IT support tickets, decides their category and priority, finds similar past tickets (RAG), and suggests a resolution. Built with LangGraph, FastAPI, and a vector database; includes a dashboard and full test suite.
 
-### StockBridge
-ASP.NET Core 8 Web API project simulating ERP integration with authentication and stock management processes.
+### [Document-Intelligence-Agent](https://github.com/semaakyavuz/Document-Intelligence-Agent) — Multi-Agent Document Analysis *(in progress)*
+A multi-agent system that reads invoices and reports (including tables and numbers), checks them against known rules, and flags anomalies. Built with LangGraph, MCP, and a real cloud deployment.
 
-### AnonimMakale
-Django-based PDF anonymization application that detects and redacts personal information in academic documents.
+### [anon-paper-system](https://github.com/semaakyavuz/anon-paper-system) — Academic Paper Anonymization Platform
+A FastAPI + React platform that removes author-identifying details from academic papers before peer review, with role-based access and an audit trail.
 
-### MultiZoo Animal Classification
-Machine learning project focused on animal classification with high prediction accuracy.
+### [RecipeAPI](https://github.com/semaakyavuz/RecipeAPI)
+A second ASP.NET Core API built to practice the same testing and CI/CD setup (xUnit, GitHub Actions) on a new domain.
 
-### NoSQL to SQL Converter
-Python-based converter that transforms NoSQL-style JSON data into relational SQL tables.
+## 🛠️ Tech I use
 
-### Smart Market Classifier
-Java machine learning project implementing KNN and Decision Tree algorithms using object-oriented programming.
+**Languages:** C#, Python
+**Backend:** ASP.NET Core, FastAPI
+**AI/Automation:** LangChain, LangGraph, RAG, vector databases (ChromaDB), prompt engineering
+**Data:** PostgreSQL, SQLite, EF Core
+**DevOps:** Docker, GitHub Actions, SonarCloud
 
-## Currently Improving
+## 📫 Reach me
 
-- ASP.NET Core Web API
-- SQL and database design
-- Machine learning model evaluation
-- Business analysis documentation
-- Data analysis with Python
+- GitHub: [@semaakyavuz](https://github.com/semaakyavuz)
