@@ -2,7 +2,7 @@
 
 Backend Developer (.NET / Python) with hands-on experience building AI-powered automation tools.
 
-I work as an IT Specialist at **Henkel**, where I automate internal reporting and support processes using Python and Microsoft Copilot. Outside of work, I build backend systems and AI agents to keep learning and to solve real problems end to end.
+I work as an IT Intern & Software Developer at **Henkel**, where I automate internal reporting and support processes using Python and Microsoft Copilot. Outside of work, I build backend systems and AI agents to keep learning and to solve real problems end to end.
 
 ## 🔭 What I build
 
